@@ -25,4 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/Sn1404/Leetcode-problems/tree/master/0704-binary-search) |
+## Linked List
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/Sn1404/Leetcode-problems/tree/master/0707-design-linked-list) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/Sn1404/Leetcode-problems/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
