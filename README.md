@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sn1404/Leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0633-sum-of-square-numbers](https://github.com/Sn1404/Leetcode-problems/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/Sn1404/Leetcode-problems/tree/master/0704-binary-search) |
 ## Linked List
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Sn1404/Leetcode-problems/tree/master/0509-fibonacci-number) |
+| [0633-sum-of-square-numbers](https://github.com/Sn1404/Leetcode-problems/tree/master/0633-sum-of-square-numbers) |
 ## Memoization
 |  |
 | ------- |
@@ -99,4 +101,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/Sn1404/Leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sn1404/Leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0633-sum-of-square-numbers](https://github.com/Sn1404/Leetcode-problems/tree/master/0633-sum-of-square-numbers) |
 <!---LeetCode Topics End-->
